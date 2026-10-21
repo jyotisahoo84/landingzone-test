@@ -8,10 +8,10 @@ rgs = {
     name     = "rg-prod"
     location = "centralindia"
   }
-  rg3 = {
-    name     = "rg-prod3"
-    location = "centralindia"
-  }
+  # rg3 = {
+  #   name     = "rg-prod3"
+  #   location = "centralindia"
+  # }
 }
 
 
